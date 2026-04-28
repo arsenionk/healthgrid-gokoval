@@ -17,6 +17,14 @@ Many energy systems fail due to lack of monitoring, maintenance, and accountabil
 
 ## Solution
 HealthGrid combines energy infrastructure with digital monitoring and local capacity building to ensure long-term reliability and sustainability.
+## System Architecture (Simplified)
+
+HealthGrid combines three core components:
+1. **Energy Layer** – Solar PV panels and battery storage providing reliable power
+2. **Monitoring Layer** – Sensors and inverters collecting real-time system data
+3. **Digital Platform** – Cloud-based system (Supabase prototype) for monitoring, analytics, and management
+
+This architecture enables remote monitoring, early fault detection, and long-term system sustainability.
 
 ## Status
 Prototype / early-stage implementation with real-world deployments in Timor-Leste.
